@@ -13,7 +13,9 @@ public class BinarySearchRotatedArray {
          * You have to check if the rotatedIndex is 0,
          * that means the array is not rotated at all or
          * the smallest index is at position 0.(remember the array is sorted)
+         * sdfsdfsdfsdfsdf
          */
+        // int n = arr.length;
         int n = arr.length;
         
         // If the array is not rotated
